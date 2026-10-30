@@ -48,6 +48,8 @@ All files live in `data/raw/`.
 | Previous-day baseline | ~30 |
 | Ridge regression | ~17.5 |
 
+Forecast for 30/10/26 auction prices available in forecast.csv.
+
 ## Limitations and next steps
 
 - One-off forecast rather than an online model updated daily
