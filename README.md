@@ -18,8 +18,8 @@ epex-forecast/
 │   ├── raw/
 │   └── processed/
 ├── helpers/
-│   ├── utils
-│   └── fetch_data
+│   ├── utils.py
+│   └── fetch_data.py
 ├── models/
 │   ├── baselines.ipynb
 │   ├── ridge.ipynb
