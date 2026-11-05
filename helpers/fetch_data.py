@@ -3,16 +3,6 @@ import pandas as pd
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
-
-API = "https://api.neso.energy/api/3/action/datastore_search_sql"
-
-
-import time
-import requests
-import pandas as pd
-from datetime import datetime, timedelta
-from zoneinfo import ZoneInfo
-
 API = "https://api.neso.energy/api/3/action/datastore_search"
 WIND_ID = "b2f03146-f05d-4824-a663-3a4f36090c71"
 DEMAND_ID = "aec5601a-7f3e-4c4c-bf56-d8e4184d3c5b"
